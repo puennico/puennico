@@ -1,16 +1,26 @@
-## Hi there 👋
+### Nicolas Puentes
+---
 
-<!--
-**puennico/puennico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Argentino de 36 años estudiando en el bootcamp de [Undefined Academy](https://undefined.academy "Undefined Academy") para covertirse en **Desarrollador Web Full-stack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+36 years old argentinian studying at [Undefined Academy](https://undefined.academy "Undefined Academy") bootcamp to become a **Full-stack Web Developer**.
+
+---
+#### Useful commands
+| Command | Description |
+| ----------- | ----------- |
+| whoami | shows current username |
+| pwd | shows absolute route of the current directory |
+| ls | lists the archives in the current directory or in the route given |
+| cd | moves between directories |
+| mkdir | creates a directory with the given name |
+
+---
+
+#### Useful aliases
+| Alias | Command | Description |
+| ----------- | ----------- | ----------- |
+| cl | cl="clear" | clears the screen |
+| npmd | npmd="npm run dev" | runs the project in development mode |
